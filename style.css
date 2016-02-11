@@ -3,8 +3,7 @@ body {
   color:rgb(255, 255, 255);
   border-style: solid;
   border-color:rgb(140, 144, 139); /*note to self - border-color needs border-style to work. */
-  margin-left: 10%;
-  margin-right: 10%; /*For some reasom my right margin is huge...?*/
+  margin: 10px auto;
   width: 600px;
   /*height: px;*/
 
