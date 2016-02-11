@@ -1,7 +1,8 @@
 body {
   background: rgb(69, 69, 69);
-  color:rgb(180, 182, 184);
+  color:rgb(255, 255, 255);
   border-style: solid;
+  border-color:rgb(140, 144, 139); /*note to self - border-color needs border-style to work. */
   margin-left: 10%;
   margin-right: 10%;
   width: 600px;
@@ -24,11 +25,11 @@ nav {
 }
 
 .aboutMe{
-  border-top: 2px solid;
-  border-bottom: 2px solid;
-  border-color:rgb(180, 182, 184);
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  border-color: rgb(140, 144, 139);
   margin: 0 auto;
-  width: 95%;
+  width: 90%;
 }
 
 a {
